@@ -1,5 +1,6 @@
 <template>
-  <div id="app">
+  <div id="app" class="bg-dark">
+    D$ is the best
     <router-view/>
   </div>
 </template>
