@@ -1,7 +1,7 @@
 <template>
-  <div id="app" class="bg-dark">
-    D$ is the best
-    <router-view/>
+  <div id="app" class="bg-light">
+    D$ is the best fo sho
+    <router-view />
   </div>
 </template>
 
